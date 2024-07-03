@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Exo6
+namespace Exo06
 {
     public class Program
     {
