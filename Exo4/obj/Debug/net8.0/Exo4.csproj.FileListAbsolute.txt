@@ -1,0 +1,15 @@
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\bin\Debug\net8.0\Exo4.exe
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\bin\Debug\net8.0\Exo4.deps.json
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\bin\Debug\net8.0\Exo4.runtimeconfig.json
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\bin\Debug\net8.0\Exo4.dll
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\bin\Debug\net8.0\Exo4.pdb
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.AssemblyInfoInputs.cache
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.AssemblyInfo.cs
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.csproj.CoreCompileInputs.cache
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.sourcelink.json
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.dll
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\refint\Exo4.dll
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.pdb
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\Exo4.genruntimeconfig.cache
+C:\Users\fatim\OneDrive\Bureau\Girleek\CSharp\Exo4\obj\Debug\net8.0\ref\Exo4.dll
